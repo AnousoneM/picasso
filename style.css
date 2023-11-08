@@ -1,0 +1,32 @@
+.titre
+    {font-family:Helvetica;
+    font-size:50px;
+    color: rgb(64, 196, 64);
+    background-color: black;
+    box-shadow: black;
+    padding:fit-content;
+    width:fit-content;}
+body 
+    {color:white;
+    background-image:url(https://lamaisondestableaux.com/cdn/shop/articles/les-10-meilleures-peintures-et-sculptures-de-picasso_800x800.jpg?v=1634041782);}
+.bodymoyen
+    {font-family:Helvetica;
+    font-size:18px;
+    background-color: black;
+    box-shadow: black;
+    padding:fit-content;
+    width:fit-content;}
+.bodygrand
+    {font-family:Helvetica;
+    font-size:23px;
+    background-color: black;
+    box-shadow: black;
+    padding:fit-content;
+    width:fit-content;}
+.bodypetit
+    {font-family:Helvetica;
+    font-size:15px;
+    background-color: black;
+    box-shadow: black;
+    padding:fit-content;
+    width:fit-content;}
